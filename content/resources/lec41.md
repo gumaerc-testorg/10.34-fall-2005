@@ -5,8 +5,13 @@ description: This resource provides information about a  MATLAB function that us
   the Marquardt method. And the errors for each response measurement are assumed to
   be independently distributed according to a normal distribution with a mean of zero
   and a common variance.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/42b32ecaf11ac0ac10276f502c2328b1_lec41.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/42b32ecaf11ac0ac10276f502c2328b1_lec41.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec41.pdf
 uid: 42b32eca-f11a-c0ac-1027-6f502c2328b1

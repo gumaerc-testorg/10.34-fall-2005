@@ -7,8 +7,13 @@ description: This resource provides information about frequentist statistics, Ba
   parameter estimation, linear least squares regression, Bayesian view of statistical
   inference, Bayesian view of single-response regression, nonlinear least squares,
   and generating confidence intervals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3525fc209b110e1aa49303d9fbd0b871_ch7ch8_review.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3525fc209b110e1aa49303d9fbd0b871_ch7ch8_review.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: ch7ch8_review.pdf
 uid: 3525fc20-9b11-0e1a-a493-03d9fbd0b871

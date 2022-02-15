@@ -3,8 +3,13 @@ content_type: resource
 description: This resource provides information about saving/reading binary files
   and making calls to the operating system, and input/output of data to/from an ASCII
   file.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e1c68d5fb6306ea5516b50083c554807_tutorial05.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e1c68d5fb6306ea5516b50083c554807_tutorial05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: tutorial05.pdf
 uid: e1c68d5f-b630-6ea5-516b-50083c554807

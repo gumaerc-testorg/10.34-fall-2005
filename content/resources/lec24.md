@@ -4,8 +4,13 @@ description: This resource provides information about a  m-file that contains lo
   checks to assert than an input value is a vector of a given type. This function
   is passed the value and name of the variable, the name of the function making the
   assertion, the dimension that the vector is supposed to be, and five integer flags.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fb200674e60af086056b68a5297566eb_lec24.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fb200674e60af086056b68a5297566eb_lec24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec24.pdf
 uid: fb200674-e60a-f086-056b-68a5297566eb
