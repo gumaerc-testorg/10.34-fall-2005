@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: df92df30-f9d1-d59c-9c77-85b077953634
 resourcetype: Document
 title: review_ses_prob.pdf
 uid: 439d24a2-7d51-c0f5-bafd-8b0f7e6905e1

@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: df92df30-f9d1-d59c-9c77-85b077953634
 resourcetype: Document
 title: ch7ch8_review.pdf
 uid: 3525fc20-9b11-0e1a-a493-03d9fbd0b871

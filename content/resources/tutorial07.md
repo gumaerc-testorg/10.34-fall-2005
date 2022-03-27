@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e04ab8d0-e52e-07e9-d308-ebd6dbe6f10e
 resourcetype: Document
 title: tutorial07.pdf
 uid: ccfa4fa1-5525-1a16-c227-9d3f77428174

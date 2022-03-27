@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6579ba2a-d59e-49a2-b4b4-14584348cba6
 resourcetype: Document
 title: hw2soln_grading.pdf
 uid: f4282f0a-5044-bb4b-b475-9da8fcb1bf62

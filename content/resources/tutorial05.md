@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e04ab8d0-e52e-07e9-d308-ebd6dbe6f10e
 resourcetype: Document
 title: tutorial05.pdf
 uid: e1c68d5f-b630-6ea5-516b-50083c554807

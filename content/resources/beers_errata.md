@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 62b75593-9852-ca57-c78a-b8930e16a36c
 resourcetype: Document
 title: beers_errata.pdf
 uid: 87bd760b-16d6-7ea3-4663-0d8c843d86f2
