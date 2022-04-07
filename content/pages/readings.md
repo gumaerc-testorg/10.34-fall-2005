@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 62b75593-9852-ca57-c78a-b8930e16a36c
 ---
@@ -14,7 +15,7 @@ Course readings came from:
 
 Beers, Kenneth. _Numerical Methods for Chemical Engineering: Applications in MATLAB®._ New York, NY: Cambridge University Press, November 2006. ISBN: 9780521859714.
 
-Text errata ([PDF]({{< baseurl >}}/resources/beers_errata))
+Text errata ({{< resource_link 87bd760b-16d6-7ea3-4663-0d8c843d86f2 "PDF" >}})
 
 Other References
 ----------------
