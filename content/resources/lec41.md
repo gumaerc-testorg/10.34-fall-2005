@@ -9,6 +9,7 @@ file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information about a  MATLAB function that uses only standard MATLAB routines to implement the nonlinear fitting of parameters using the Marquardt method. And the errors for each response measurement are assumed to be independently distributed according to a normal distribution with a mean of zero and a common variance.
-

@@ -6,6 +6,7 @@ file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information about loops, if, case structures and relational operators, while loops and control statements, and screen input/output.
-

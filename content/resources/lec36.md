@@ -8,6 +8,7 @@ file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information about a  MATLAB function tha employs the statistics toolkit functions to perform a simple linear least squares data fit using multiple regression. One enters the design matrix X, vector of values y, and the alpha value for developing the confidence intervals.
-

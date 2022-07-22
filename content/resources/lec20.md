@@ -9,6 +9,7 @@ file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information about a  procedure that takes a square dimension   matrix that discretizes a transport term in a PDE on a given computational domain, and the number of the field to which it is to be applied, and returns the square dimension DOF (where DOF = num of fields*num of pts) matrix containing these elements in the proper position for the selected field.
-

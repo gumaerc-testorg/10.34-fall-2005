@@ -7,6 +7,7 @@ file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information about the condition of existence and uniqueness for solutions, and characteristics that a suitable functional form of determinant(A) matrix must possess.
-
