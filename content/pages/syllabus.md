@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides information about course description.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 85bdd852-9ae3-9ee6-fb76-580a9875e9b4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
