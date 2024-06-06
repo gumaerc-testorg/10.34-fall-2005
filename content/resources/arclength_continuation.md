@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for Initial value problems.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ab76d98e2e15ef17e717f65bb43530a3_arclength_continuation.m
+file_size: 7472
 file_type: text/plain
 learning_resource_types:
 - Assignments

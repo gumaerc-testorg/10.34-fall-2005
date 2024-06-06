@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about vectors?basis sets, orthogonal
   basis sets, and Gramm-Schmidt orthogonalization.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d05399abeea2021afc23eb7df1ff1773_lecturenotes133.pdf
+file_size: 204126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

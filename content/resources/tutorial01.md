@@ -4,6 +4,7 @@ description: This resource provides information about basic scalar operations, b
   vector operations, basic matrix operations, using character strings, and basic mathematical
   operations.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2eae4e53a922966fb3b6be9fcd013967_tutorial01.pdf
+file_size: 31534
 file_type: application/pdf
 learning_resource_types:
 - Tools

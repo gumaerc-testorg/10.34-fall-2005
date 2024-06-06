@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for numerical optimization.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c7f531c88bf2d4599d7a081496b271d6_optimal_design_CSTR.m
+file_size: 4341
 file_type: text/plain
 learning_resource_types:
 - Assignments

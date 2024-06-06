@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for boundary value problems.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/345d9792a0349f83b8cd0513329f2703_catalyst_nonisothermal_scan.m
+file_size: 9100
 file_type: text/plain
 learning_resource_types:
 - Assignments

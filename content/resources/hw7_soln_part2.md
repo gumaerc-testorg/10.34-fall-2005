@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains temporary solution for problem set 7.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c67a5026a2e0bf0c2cab4b7a06fecbcf_hw7_soln_part2.pdf
+file_size: 533702
 file_type: application/pdf
 learning_resource_types:
 - Assignments

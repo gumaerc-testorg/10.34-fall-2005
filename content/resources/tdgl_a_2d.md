@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for probability theory and stochastic simulation.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e75e6d77ad3f275e0a01c2792000b835_TDGL_A_2D.m
+file_size: 8427
 file_type: text/plain
 learning_resource_types:
 - Assignments

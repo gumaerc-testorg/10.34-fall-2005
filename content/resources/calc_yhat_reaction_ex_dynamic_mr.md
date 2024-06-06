@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for bayesian statistics and parameter estimation.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d2737a8f7353ca6f72a8dcc6219a5c3d_calc_Yhat_reaction_ex_dynamic_MR.m
+file_size: 398
 file_type: text/plain
 learning_resource_types:
 - Assignments

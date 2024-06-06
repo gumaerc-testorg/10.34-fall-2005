@@ -5,6 +5,7 @@ description: This resource provides information about a  m-file that contains lo
   is passed the value and name of the variable, the name of the function making the
   assertion, the dimension that the matrix is supposed to be, and four integer flags.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ade926f5a1c505c28ccec25a8ae2a8fc_lec25.pdf
+file_size: 30171
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
