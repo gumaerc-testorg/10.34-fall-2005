@@ -4,6 +4,7 @@ description: This resource provides information about a  m-file that plots the r
   of the simulation. And a separate plot is made of each concentration and temperature
   profile along the length of the reactor.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5ca54adb1b6253e0236c8db414afabec_lec07.pdf
+file_size: 17752
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

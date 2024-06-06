@@ -5,6 +5,7 @@ description: This resource provides information about a  MATLAB function tha emp
   using multiple regression. One enters the design matrix X, vector of values y, and
   the alpha value for developing the confidence intervals.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fe30eb199f755c458e3ef7d424e58b8e_lec36.pdf
+file_size: 24133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

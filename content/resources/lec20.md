@@ -6,6 +6,7 @@ description: This resource provides information about a  procedure that takes a 
   square dimension DOF (where DOF = num of fields*num of pts) matrix containing these
   elements in the proper position for the selected field.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fc7f5d4c9f14c5569964f608c08a74de_lec20.pdf
+file_size: 21868
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

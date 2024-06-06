@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about a  MATLAB m-file that sets up
   the problem of % fitting the rate constants for the network  of two reactions.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2e8d0dd107134218912e928197d6e013_lec40.pdf
+file_size: 24273
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

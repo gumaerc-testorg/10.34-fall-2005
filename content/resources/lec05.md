@@ -5,6 +5,7 @@ description: 'This resource provides information about a  MATLAB m-file that get
 
   It asks for input over and over again until a correctly typed input value is entered.'
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e8e3ec522ae3127541be4c099c848235_lec05.pdf
+file_size: 18759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

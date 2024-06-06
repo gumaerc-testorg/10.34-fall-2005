@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for matrix eigenvalue analysis.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5943c6cc6a0b1a63b37610c09cfb94f1_lattice_2D_vib.m
+file_size: 13983
 file_type: text/plain
 learning_resource_types:
 - Assignments

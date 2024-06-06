@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about user-defined data structures,
   and input assertion routines.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ccfa4fa155251a16c2279d3f77428174_tutorial07.pdf
+file_size: 55964
 file_type: application/pdf
 learning_resource_types:
 - Tools

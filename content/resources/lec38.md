@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about Linear Least Squares frequency.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c30a4dedc8c04870e11de386e1e2954f_lec38.pdf
+file_size: 11859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: This resource provides information about a  MATLAB function that us
   be independently distributed according to a normal distribution with a mean of zero
   and a common variance.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/42b32ecaf11ac0ac10276f502c2328b1_lec41.pdf
+file_size: 41165
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

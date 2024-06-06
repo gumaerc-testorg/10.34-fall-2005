@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about how to interpret an equation
   of type Ax = b as a linear transformation.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/06039b5eabb34103cc26ec3395448675_lecturenotes131.pdf
+file_size: 97615
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource provides information about a procedure returns a matr
   that is the discretized form of the second spatial derivative operator on a non-uniform
   1-D grid.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/384a887225bcd84bd4f722634fd2f42e_lec19.pdf
+file_size: 23601
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
