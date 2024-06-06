@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for numerical optimization.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/04cab174f58e943c8e031494cd583478_ellipse_min.m
+file_size: 2511
 file_type: text/plain
 learning_resource_types:
 - Assignments

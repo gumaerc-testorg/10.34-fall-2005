@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for initial value problems.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/36c62a3b32f907640d9f6c97a1c7fdcb_nonisothermal_CSTR_Da_scan.m
+file_size: 3627
 file_type: text/plain
 learning_resource_types:
 - Assignments

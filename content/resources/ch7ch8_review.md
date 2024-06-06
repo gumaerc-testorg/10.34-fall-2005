@@ -8,6 +8,7 @@ description: This resource provides information about frequentist statistics, Ba
   inference, Bayesian view of single-response regression, nonlinear least squares,
   and generating confidence intervals.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3525fc209b110e1aa49303d9fbd0b871_ch7ch8_review.pdf
+file_size: 174275
 file_type: application/pdf
 learning_resource_types:
 - Exams

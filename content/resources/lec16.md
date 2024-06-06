@@ -4,6 +4,7 @@ description: This resource provides information about a  MATLAB m-file that calc
   the  contribution from heat transfer to the  jacket to the source term and its Jacobian
   in a 1D tubular reactor model.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ab448a41aa864ac2094502e82938c13f_lec16.pdf
+file_size: 20837
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

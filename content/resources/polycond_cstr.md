@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for nonlinear algebraic equations.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/1154ffe0c93a0a3b8cd79665103483ed_polycond_CSTR.m
+file_size: 9058
 file_type: text/plain
 learning_resource_types:
 - Assignments

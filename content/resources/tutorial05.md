@@ -4,6 +4,7 @@ description: This resource provides information about saving/reading binary file
   and making calls to the operating system, and input/output of data to/from an ASCII
   file.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e1c68d5fb6306ea5516b50083c554807_tutorial05.pdf
+file_size: 20788
 file_type: application/pdf
 learning_resource_types:
 - Tools

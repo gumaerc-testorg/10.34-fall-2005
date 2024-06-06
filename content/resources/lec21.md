@@ -5,6 +5,7 @@ description: This resource provides information about a procedure that calculate
   These are governed by the locations where epsilon(k) is zero. This procedure implements
   Dankwert's boundary conditions at the inlet and outlet of a 1-D tubular reactor.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ea848febe671baf3e33db25abc2ff8b5_lec21.pdf
+file_size: 35093
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

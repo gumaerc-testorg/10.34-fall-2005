@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for nonlinear algebraic equations.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/9056baf7ef7f517443e768394a5fe3de_polymer_flow_1D.m
+file_size: 5375
 file_type: text/plain
 learning_resource_types:
 - Assignments

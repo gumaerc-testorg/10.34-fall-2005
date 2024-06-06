@@ -2,6 +2,7 @@
 content_type: resource
 description: Related file for matrix eigenvalue analysis.
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f6ad978162b88c104d585ebf9d4ba9d2_test_Gershgorin.m
+file_size: 1130
 file_type: text/plain
 learning_resource_types:
 - Assignments
