@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for boundary value problems.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3790492f1e405d21b898b2adb22b8a8f_f_2D_uniform.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3790492f1e405d21b898b2adb22b8a8f_f_2D_uniform.m
 file_size: 206
 file_type: text/plain
 learning_resource_types:

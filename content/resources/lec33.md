@@ -5,7 +5,7 @@ description: This resource provides information about a  MATLAB m-file that cont
   routine employing finite difference estimates of the Hessian, a Levenberg-Marquardt
   type of modification to ensure that each search direction is a descent direction,
   and a secant method for the line search.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/014f7c8e729cfa88feeba11a0699132c_lec33.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/014f7c8e729cfa88feeba11a0699132c_lec33.pdf
 file_size: 28937
 file_type: application/pdf
 learning_resource_types:

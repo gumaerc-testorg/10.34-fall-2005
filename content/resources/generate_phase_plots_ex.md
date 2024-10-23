@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for initial value problems.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fd36e6b5ea67afeb7046954d2e726360_generate_phase_plots_ex.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fd36e6b5ea67afeb7046954d2e726360_generate_phase_plots_ex.m
 file_size: 3925
 file_type: text/plain
 learning_resource_types:

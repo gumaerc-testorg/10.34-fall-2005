@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for initial value problems.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6681a9b3cb27c3747f400814ac3966c9_fit_enzyme_batch_sim1.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6681a9b3cb27c3747f400814ac3966c9_fit_enzyme_batch_sim1.m
 file_size: 3835
 file_type: text/plain
 learning_resource_types:

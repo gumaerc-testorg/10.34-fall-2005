@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information about
 
   Linear Least Squares eta prime.'
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/355a0b2b8c85a54400252de67f3559fd_lec39.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/355a0b2b8c85a54400252de67f3559fd_lec39.pdf
 file_size: 13287
 file_type: application/pdf
 learning_resource_types:

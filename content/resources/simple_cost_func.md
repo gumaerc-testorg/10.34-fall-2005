@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for numerical optimization.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c116b27d5782beef6cb77135f5e9aeff_simple_cost_func.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c116b27d5782beef6cb77135f5e9aeff_simple_cost_func.m
 file_size: 292
 file_type: text/plain
 learning_resource_types:

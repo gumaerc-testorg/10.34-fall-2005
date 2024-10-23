@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about writing and running m-files,
   structured programming with functions unstructured programming approach, structured
   programming approach, inline functions, and functions as function arguments.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5b4bd5af579b68a72a6884998e7b7d5c_tutorial06.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5b4bd5af579b68a72a6884998e7b7d5c_tutorial06.pdf
 file_size: 33974
 file_type: application/pdf
 learning_resource_types:
