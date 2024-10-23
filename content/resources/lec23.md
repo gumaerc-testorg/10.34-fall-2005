@@ -4,7 +4,7 @@ description: This resource provides information about a a m-file that contains l
   checks to assert than an input value is a type of scalar number. This function is
   passed the value and name of the variable, the name of the function making the assertion,
   and four integer flags.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2de3297ba2c55c234601668a589ed54f_lec23.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2de3297ba2c55c234601668a589ed54f_lec23.pdf
 file_size: 26707
 file_type: application/pdf
 learning_resource_types:

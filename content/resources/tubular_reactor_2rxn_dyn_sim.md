@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for boundary value problems.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6ecbdb43ab9304f0fcddf5102daef96d_tubular_reactor_2rxn_dyn_sim.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6ecbdb43ab9304f0fcddf5102daef96d_tubular_reactor_2rxn_dyn_sim.m
 file_size: 11670
 file_type: text/plain
 learning_resource_types:

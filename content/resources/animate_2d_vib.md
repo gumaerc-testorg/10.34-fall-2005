@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for matrix eigenvalue analysis.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d083e3583b3340d5be646b5c014e57bf_animate_2D_vib.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d083e3583b3340d5be646b5c014e57bf_animate_2D_vib.m
 file_size: 2909
 file_type: text/plain
 learning_resource_types:

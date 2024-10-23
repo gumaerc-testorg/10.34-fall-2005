@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution for problem set 2.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f4282f0a5044bb4bb4759da8fcb1bf62_hw2soln_grading.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f4282f0a5044bb4bb4759da8fcb1bf62_hw2soln_grading.pdf
 file_size: 99881
 file_type: application/pdf
 learning_resource_types:
