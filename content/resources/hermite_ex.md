@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for initial value problems.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c763f1bc25c5ae32392d7dd038ca2563_hermite_ex.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/c763f1bc25c5ae32392d7dd038ca2563_hermite_ex.m
 file_size: 1614
 file_type: text/plain
 learning_resource_types:

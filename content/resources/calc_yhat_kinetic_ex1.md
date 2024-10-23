@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for bayesian statistics and parameter estimation.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0eb436dd6fe07a508b6243237400b60d_calc_yhat_kinetic_ex1.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0eb436dd6fe07a508b6243237400b60d_calc_yhat_kinetic_ex1.m
 file_size: 605
 file_type: text/plain
 learning_resource_types:

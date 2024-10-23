@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for probability theory and stochastic simulation.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/48d590212a2b28255d6ebe0977383052_make_Ising_lattice_MC_movie.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/48d590212a2b28255d6ebe0977383052_make_Ising_lattice_MC_movie.m
 file_size: 1886
 file_type: text/plain
 learning_resource_types:
