@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about a  MATLAB m-file predicts the
   concentrations  of the species at several times for a reaction network of the two
   reactions.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/7305364ae2ba1da3f73f7927e28d844d_lec42.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/7305364ae2ba1da3f73f7927e28d844d_lec42.pdf
 file_size: 20132
 file_type: application/pdf
 learning_resource_types:

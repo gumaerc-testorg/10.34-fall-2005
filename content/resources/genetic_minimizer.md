@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for probability theory and stochastic simulation.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0b97123aa8c6d344d204c6e7b7aa4dcd_genetic_minimizer.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0b97123aa8c6d344d204c6e7b7aa4dcd_genetic_minimizer.m
 file_size: 5561
 file_type: text/plain
 learning_resource_types:

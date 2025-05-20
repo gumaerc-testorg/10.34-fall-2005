@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a  function calculates the b
   vector and its  Jacobian bJac of a DAE system of the form.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a1e85ddb16bc3d776b2ef5292ac67e48_lec13.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a1e85ddb16bc3d776b2ef5292ac67e48_lec13.pdf
 file_size: 32563
 file_type: application/pdf
 learning_resource_types:

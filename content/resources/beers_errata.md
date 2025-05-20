@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information about errata of the book numerical
   methods for chemical engineering : applications in MATLAB.'
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/87bd760b16d67ea346630d8c843d86f2_beers_errata.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/87bd760b16d67ea346630d8c843d86f2_beers_errata.pdf
 file_size: 67447
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: This resource provides information about  MATLAB program that calcu
   the steady state concentration and temperature at steady state within a continuous
   stirred-tank reactor in overflow mode. The model is written to support an arbitarily
   complex reaction network.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d4de34ae96c5e08b4b7de9b3e7374cc8_lec27.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/d4de34ae96c5e08b4b7de9b3e7374cc8_lec27.pdf
 file_size: 91312
 file_type: application/pdf
 learning_resource_types:

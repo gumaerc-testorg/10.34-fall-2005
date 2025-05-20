@@ -4,7 +4,7 @@ description: 'This resource provides information about a  function calculates th
   A matrix components
 
   in the general DAE form.'
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2e939eb6c0d277130db665d08f018751_lec17.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/2e939eb6c0d277130db665d08f018751_lec17.pdf
 file_size: 34439
 file_type: application/pdf
 learning_resource_types:

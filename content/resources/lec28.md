@@ -4,7 +4,7 @@ description: This resource provides information about a  MATLAB program that cal
   the dynanamic concentration and temperature profiles within a continuous stirred-tank
   reactor. This program models a CSTR in overflow mode (no volume change), or, if
   the flow rate is set to zero, the model simulates a batch reactor.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f1c22e274071cea415a9653e559b748e_lec28.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f1c22e274071cea415a9653e559b748e_lec28.pdf
 file_size: 141455
 file_type: application/pdf
 learning_resource_types:

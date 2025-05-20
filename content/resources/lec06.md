@@ -4,7 +4,7 @@ description: This resource provides information about a procedure sets that grid
   locations for a 1-D finite difference discretization. For the first version of this
   program, the grid points will be spaced at uniform intervals in the domain 0 to
   reactor len.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ffc60d32c32c23f75245f5335d6de768_lec06.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ffc60d32c32c23f75245f5335d6de768_lec06.pdf
 file_size: 16882
 file_type: application/pdf
 learning_resource_types:

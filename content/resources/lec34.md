@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a MATLAB m-file that makes a
   contour plot of  a cost function of 2 variables.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/efcec8da7e52f80dc3603cb463886350_lec34.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/efcec8da7e52f80dc3603cb463886350_lec34.pdf
 file_size: 21037
 file_type: application/pdf
 learning_resource_types:

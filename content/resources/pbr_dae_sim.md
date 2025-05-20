@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for initial value problems.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/b2fd7474f0845e38efd2253a43c45e5e_PBR_DAE_sim.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/b2fd7474f0845e38efd2253a43c45e5e_PBR_DAE_sim.m
 file_size: 6209
 file_type: text/plain
 learning_resource_types:

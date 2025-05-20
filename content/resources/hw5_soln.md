@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution for problem set 5.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a52b262c3eefbf3e54a01ea406a77094_hw5_soln.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a52b262c3eefbf3e54a01ea406a77094_hw5_soln.pdf
 file_size: 329867
 file_type: application/pdf
 learning_resource_types:
