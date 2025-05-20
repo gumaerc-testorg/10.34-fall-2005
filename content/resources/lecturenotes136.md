@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about steps how to inverse of a square
   matrix.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/903763b7ff2af71058455a49a8ebebaf_lecturenotes136.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/903763b7ff2af71058455a49a8ebebaf_lecturenotes136.pdf
 file_size: 111859
 file_type: application/pdf
 learning_resource_types:

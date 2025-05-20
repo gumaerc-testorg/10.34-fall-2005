@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for Bayesian statistics and parameter estimation.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/70c28b5cb43db93d2a2e393a1e2b3698_Bayes_MCMC_1Dmarginal_MRSL.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/70c28b5cb43db93d2a2e393a1e2b3698_Bayes_MCMC_1Dmarginal_MRSL.m
 file_size: 4611
 file_type: text/plain
 learning_resource_types:

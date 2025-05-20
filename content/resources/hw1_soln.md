@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 5 questions along with their solutions to test
   students understanding of course material.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/9df2695fbe77536dc5fa5fdd0bf3346c_hw1_soln.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/9df2695fbe77536dc5fa5fdd0bf3346c_hw1_soln.pdf
 file_size: 146417
 file_type: application/pdf
 learning_resource_types:

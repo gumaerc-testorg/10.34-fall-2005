@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about force balance equation, steady
   state of a  system, and how a higher-order ODE is solved by MATLAB.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/439d24a27d51c0f5bafd8b0f7e6905e1_review_ses_prob.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/439d24a27d51c0f5bafd8b0f7e6905e1_review_ses_prob.pdf
 file_size: 33363
 file_type: application/pdf
 learning_resource_types:

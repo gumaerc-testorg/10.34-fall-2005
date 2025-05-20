@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a procedure that reads in the
   simulation parameters that are required to define a  problem.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0192521cce0a62c0c48ea1423b2ff25e_lec03.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0192521cce0a62c0c48ea1423b2ff25e_lec03.pdf
 file_size: 47952
 file_type: application/pdf
 learning_resource_types:
