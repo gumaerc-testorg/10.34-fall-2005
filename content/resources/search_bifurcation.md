@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for nonlinear algebraic equations.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/7a3bfe3ab3e0cf9aacec459deb7c681e_search_bifurcation.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/7a3bfe3ab3e0cf9aacec459deb7c681e_search_bifurcation.m
 file_size: 3438
 file_type: text/plain
 learning_resource_types:

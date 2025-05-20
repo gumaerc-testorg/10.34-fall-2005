@@ -5,7 +5,7 @@ description: This resource provides information about a  program calculates the 
   parallel plates separated by a distance B. The bottom plate is stationary and the
   top plate is moving at a specified velocity in the x-direction. The pressure gradient
   in the x-direction is specified and is used to drive the flow.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e025be6037668890bdcb4e6f09829d9c_lec31.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e025be6037668890bdcb4e6f09829d9c_lec31.pdf
 file_size: 54431
 file_type: application/pdf
 learning_resource_types:

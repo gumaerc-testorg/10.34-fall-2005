@@ -5,7 +5,7 @@ description: This resource provides information about iterative rules for updati
   of the exact solution, converting higher-order differential equations into systems
   of coupled first-order differential equations, polynomial interpolation, Lagrange
   interpolation, optimization, and PDE-BVPs.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fd63e7040266ba7b29158a4488d71c42_review2_compiled.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/fd63e7040266ba7b29158a4488d71c42_review2_compiled.pdf
 file_size: 57479
 file_type: application/pdf
 learning_resource_types:

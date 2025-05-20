@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about how to add matrix and matrix/vector
   multiplication.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aba81431732c08843308b356ba95ecfe_lecturenotes113.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aba81431732c08843308b356ba95ecfe_lecturenotes113.pdf
 file_size: 111119
 file_type: application/pdf
 learning_resource_types:

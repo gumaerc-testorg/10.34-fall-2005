@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about project title, author, program
   summary, program input and output data specification, program implementation design
   notes, and program outline in program development language.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f6aa2b4636ee0f9ec477ec8e22fa4901_lec30.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f6aa2b4636ee0f9ec477ec8e22fa4901_lec30.pdf
 file_size: 57881
 file_type: application/pdf
 learning_resource_types:

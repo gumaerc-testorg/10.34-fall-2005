@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for nonlinear algebraic equations.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/34cb8a3aa5f10d27a574da8180517b18_Newton_2D_test.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/34cb8a3aa5f10d27a574da8180517b18_Newton_2D_test.m
 file_size: 4874
 file_type: text/plain
 learning_resource_types:

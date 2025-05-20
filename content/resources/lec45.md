@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a MATLAB file that tests the
   Newton?s method for 2 nonlinear equations with a solution at (3,4).
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/80e9b25f9e9586aedf8463a1e61ba3d4_lec45.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/80e9b25f9e9586aedf8463a1e61ba3d4_lec45.pdf
 file_size: 26932
 file_type: application/pdf
 learning_resource_types:
