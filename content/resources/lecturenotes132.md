@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about how to multiply matrices, and
   how to transpose a matrix.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a5dbd20695c1f65265c1ae3b9ae9c363_lecturenotes132.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/a5dbd20695c1f65265c1ae3b9ae9c363_lecturenotes132.pdf
 file_size: 117567
 file_type: application/pdf
 learning_resource_types:

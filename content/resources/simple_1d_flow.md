@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for linear algebra.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/cde8dd67969b91bebabc65a4654541a9_simple_1D_flow.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/cde8dd67969b91bebabc65a4654541a9_simple_1D_flow.m
 file_size: 1330
 file_type: text/plain
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about the condition of existence and
   uniqueness for solutions, and characteristics that a suitable functional form of
   determinant(A) matrix must possess.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aa971db37321955cb1d148d4e997527e_lecturenotes135.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/aa971db37321955cb1d148d4e997527e_lecturenotes135.pdf
 file_size: 249168
 file_type: application/pdf
 learning_resource_types:

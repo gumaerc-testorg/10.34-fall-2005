@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Related file for Probability theory and stochastic simulation.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/978a6f3c96bb655172f5946852527cca_BD_1D.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/978a6f3c96bb655172f5946852527cca_BD_1D.m
 file_size: 1876
 file_type: text/plain
 learning_resource_types:

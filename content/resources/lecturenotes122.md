@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about the method of Gaussian elimination,
   starting from a system Ax=b of the general form.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/8f9885abe456fb326dc18470551eae2e_lecturenotes122.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/8f9885abe456fb326dc18470551eae2e_lecturenotes122.pdf
 file_size: 98214
 file_type: application/pdf
 learning_resource_types:
