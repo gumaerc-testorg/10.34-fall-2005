@@ -4,7 +4,7 @@ description: This resource provides information about a procedure that takes the
   data calculated by the geometry-independent reaction network model routine and shifts
   the results to the appropriate locations for the DAE form of a set of PDE's that
   model the concentration and enthalpy balances using finite differences.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e16863190735f9cf256c79934d50f1c1_lec15.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/e16863190735f9cf256c79934d50f1c1_lec15.pdf
 file_size: 39328
 file_type: application/pdf
 learning_resource_types:

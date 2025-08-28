@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about a procedure that updates the
   solution estimate of the steady state concentration and temperature profiles in
   a 1D tubular reactor with an arbitrary reaction network.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/460044932608200212d30541e7d054aa_lec08.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/460044932608200212d30541e7d054aa_lec08.pdf
 file_size: 30461
 file_type: application/pdf
 learning_resource_types:

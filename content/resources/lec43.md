@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a  MATLAB m-file returns the
   time derivatives of each concentration for the 2-reaction network.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/91b7efe27f2cd278dc0c25207b481196_lec43.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/91b7efe27f2cd278dc0c25207b481196_lec43.pdf
 file_size: 18709
 file_type: application/pdf
 learning_resource_types:
