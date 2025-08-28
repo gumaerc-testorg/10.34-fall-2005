@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6c68a7278ef3554a99b7d44933cf3a0e_global_min_cost_func.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/6c68a7278ef3554a99b7d44933cf3a0e_global_min_cost_func.m
 file_size: 413
 file_type: text/plain
 learning_resource_types:

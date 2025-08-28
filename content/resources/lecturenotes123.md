@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about pivoting techniques in Gaussian
   elimination. It also provides information about the technique of partial pivoting.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5643489d7a4b96707c0d5577492edd5d_lecturenotes123.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5643489d7a4b96707c0d5577492edd5d_lecturenotes123.pdf
 file_size: 186468
 file_type: application/pdf
 learning_resource_types:

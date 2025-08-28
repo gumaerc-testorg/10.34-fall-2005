@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about a input file sets parameters
   for a steady state calculation of a single CSTR.
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0217c6bbb3ad1c090af9862777832c15_lec29.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/0217c6bbb3ad1c090af9862777832c15_lec29.pdf
 file_size: 20827
 file_type: application/pdf
 learning_resource_types:
